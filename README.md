@@ -4,17 +4,17 @@
   - It uses the ***Tkinter*** Library in python for GUI.
   - As of now, this project implements three sorting algorithms - BubbleSort, QuickSort and MergeSort.
 
-Visualization:
+## Visualization:
 <p align = "centre">
  
  <img height=400  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss1.png" alt="IMG" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
- <img height=400  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss2.png" alt="IMG" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+ <img height=399  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss2.png" alt="IMG" /> 
  </p>
   
 
 
-Read the [CONTRIBUTING.md](https://github.com/clubgamma/Live-Code-Editor/blob/main/CONTRIBUTING.md) to start your open source contribution.
+**Read the [CONTRIBUTING.md](https://github.com/clubgamma/Live-Code-Editor/blob/main/CONTRIBUTING.md) to start your open source contribution.**
 
 
 
