@@ -33,13 +33,11 @@ Read the [CONTRIBUTING.md](https://github.com/clubgamma/Live-Code-Editor/blob/ma
 <div align="center">  
 <i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
 
-![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
-![]"https://github.com/clubgamma/sorting_algorithm_visualizer/pulls"><img src="https://img.shields.io/github/issues-pr/clubgamma/RiddlesWorld?style=flat?color=yellow"/></a>
-<a href="https://github.com/clubgamma/pocket_widgets/issues"><img src="https://img.shields.io/github/issues/clubgamma/RiddlesWorld?style=flat"/></a>
-<a href="https://github.com/clubgamma/pocket_widgets/graphs/contributors"><img src="https://img.shields.io/github/contributors/clubgamma/RiddlesWorld?color=orange"/></a>
-<a href="https://github.com/clubgamma/pocket_widgets/blob/master/LICENSE"><img src="https://img.shields.io/github/license/clubgamma/RiddlesWorld?color=1abc9c"/></a>
-![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
-<a href="https://github.com/clubgamma/Tic-Tac-Toe-Game/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
+![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)
+[![](https://img.shields.io/badge/Club_Gamma-Code_of_conduct-%23FF0000.svg?&style=flat&logoColor=white&color=red)](https://clubgamma.github.io/code-of-conduct/)
+[![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/rudrabarad/5f367b75ae6ff53bb868f3d56567b1df/raw/discord.json)](https://discord.gg/kjnp6wU)
+<a href="https://github.com/clubgamma/Sorting_Algorithm_Visualizer/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
 <br>
 </div>
 
