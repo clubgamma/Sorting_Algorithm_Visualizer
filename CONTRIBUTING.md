@@ -17,7 +17,7 @@ Read the [Code of Conduct](https://github.com/clubgamma/code-of-conduct) before 
 2.  Pick any issue you want to work on from the [issues](https://github.com/clubgamma/Sorting_Algorithm_Visualizer/issues), discuss with maintainer on issue and then start.
 
 3.  Fork the project on GitHub.
-    ![fork](![image](https://user-images.githubusercontent.com/61374478/135531595-29df18d4-6ba1-4b6e-91f6-da5d5de7ab93.png))
+    ![fork](https://user-images.githubusercontent.com/61374478/135533528-5dba386d-f5f3-4d04-a610-3f8ab4ce6cd1.png)
     [Help Guide to Fork a Repository](https://help.github.com/en/articles/fork-a-repo/).
     
     After a sucessful fork, you'll see a copy of this repo in your own account.
@@ -83,7 +83,7 @@ Read the [Code of Conduct](https://github.com/clubgamma/code-of-conduct) before 
 - Create a pull-request by clicking the button
 - Mark the pull request as **Ready for Review (If you forget this step then your pull request won't be counted)** if you are working in draft pull request
 
-![image](![image](https://user-images.githubusercontent.com/61374478/135532447-a9ecda8f-2838-455d-93c2-5010e5bbae75.png)))
+![image](https://user-images.githubusercontent.com/61374478/135532447-a9ecda8f-2838-455d-93c2-5010e5bbae75.png)
 
 - Also add the below 2 lines in the description. It is compulsory for sucessful submission.
 
