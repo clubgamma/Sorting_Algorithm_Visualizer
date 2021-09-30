@@ -8,7 +8,7 @@
 <p align = "centre">
  
  <img height=400  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss1.png" alt="IMG" />
-  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
  <img height=399  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss2.png" alt="IMG" /> 
  </p>
   
