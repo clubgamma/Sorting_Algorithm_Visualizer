@@ -1,14 +1,16 @@
 ## 📊 Sorting_Algorithm_Visualizer
 
-Sorting Visualizer  is a GUI based python program to visualize common Sorting Algorithms. <br /> It uses the <font size="5">Tkinter</font> Library in python for GUI. <br /> As of now, I have implemented three sorting algorithms - BubbleSort, QuickSort and MergeSort.
+  - Sorting Visualizer  is a GUI based python program to visualize common Sorting Algorithms.
+  - It uses the ***Tkinter*** Library in python for GUI.
+  - As of now, this project implements three sorting algorithms - BubbleSort, QuickSort and MergeSort.
 
 Visualization:
-![alt text](https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss1.png)
+![alt text](file:///D:/sem4/PythonProgramming/Presentation/ss2.png)
 ![alt text](https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss2.png)
 
 
 Read the [CONTRIBUTING.md](https://github.com/clubgamma/Live-Code-Editor/blob/main/CONTRIBUTING.md) to start your open source contribution.
-![Screenshot 2021-09-26 at 1 23 26 AM](https://user-images.githubusercontent.com/68161473/134784501-98bf79b0-a17a-42f5-9983-92d618ac2e58.png)
+
 
 
 ## Things to keep in mind
