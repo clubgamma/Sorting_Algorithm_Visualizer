@@ -14,7 +14,7 @@
   
 
 
-**Read the [CONTRIBUTING.md](https://github.com/clubgamma/Live-Code-Editor/blob/main/CONTRIBUTING.md) to start your open source contribution.**
+**Read the [CONTRIBUTING.md](https://github.com/clubgamma/Sorting_Algorithm_Visualizer/blob/main/CONTRIBUTING.md) to start your open source contribution.**
 
 
 
