@@ -7,9 +7,9 @@
 ## Visualization:
 <p align = "centre">
  
- <img height=360  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss1.png" alt="IMG" />
+ <img height=300  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss1.png" alt="IMG" />
   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
- <img height=359  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss2.png" alt="IMG" /> 
+ <img height=299  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss2.png" alt="IMG" /> 
  </p>
   
 
