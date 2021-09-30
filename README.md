@@ -5,7 +5,7 @@
   - As of now, this project implements three sorting algorithms - BubbleSort, QuickSort and MergeSort.
 
 Visualization:
-<p align = "center>
+<p align = "centre">
  
  <img height=250  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss1.png" alt="IMG" /> </br>
  <img height=249  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss2.png" alt="IMG" /> 
