@@ -5,7 +5,7 @@
   - As of now, this project implements three sorting algorithms - BubbleSort, QuickSort and MergeSort.
 
 Visualization:
-![alt text](file:///D:/sem4/PythonProgramming/Presentation/ss2.png)
+![alt text](https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss1.png?compress=1&resize=300x400)
 ![alt text](https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss2.png)
 
 
