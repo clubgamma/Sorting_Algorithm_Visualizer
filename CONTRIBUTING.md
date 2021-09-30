@@ -1,11 +1,11 @@
 # Welcome to the contributing section 🤝
 
 
-**READ CODE OF CONDUCT**
+### READ CODE OF CONDUCT
 
 Read the [Code of Conduct](https://github.com/clubgamma/code-of-conduct) before starting contributing.
 
-#### Coding conventions to be followed-
+### Coding conventions to be followed-
 
 1. Separate python file shall be made for every sorting algorithm.
 2. Change or add the code for respective algorithms in sortingAlgorithmVisualization.py 
