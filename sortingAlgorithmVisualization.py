@@ -68,25 +68,25 @@ def StartAlgorithm():
 
 #frame / base lauout
 UI_frame = Frame(root, width= 600, height=200, bg='cyan')
-UI_frame.grid(row=0, column=0, padx=10, pady=5)
+UI_frame.grid(row=1, column=1, padx=15, pady=5)
 
 canvas = Canvas(root, width=600, height=380, bg='cyan')
-canvas.grid(row=1, column=0, padx=10, pady=5)
+canvas.grid(row=2, column=0, padx=10, pady=5)
 
 #User Interface Area
 #Row[0]
 Label(UI_frame, text="Algorithm: ", bg='white').grid(row=0, column=0, padx=5, pady=5, sticky=W)
 algMenu = ttk.Combobox(UI_frame, textvariable=selected_alg, values=['Bubble Sort', 'Quick Sort', 'Merge Sort'])
-algMenu.grid(row=0, column=1, padx=5, pady=5)
+algMenu.grid(row=1, column=2, padx=5, pady=5)
 algMenu.current(0)
 
 speedScale = Scale(UI_frame, from_=0.1, to=5.0, length=200, digits=2, resolution=0.2, orient=HORIZONTAL, label="Select Speed [s]")
-speedScale.grid(row=0, column=2, padx=5, pady=5)
+speedScale.grid(row=1, column=2, padx=5, pady=5)
 Button(UI_frame, text="Start", command=StartAlgorithm, bg='red').grid(row=0, column=3, padx=5, pady=5)
 
 #Row[1]
 sizeEntry = Scale(UI_frame, from_=3, to=100, resolution=1, orient=HORIZONTAL, label="Data Size")
-sizeEntry.grid(row=1, column=0, padx=5, pady=5)
+sizeEntry.grid(row=2, column=1, padx=5, pady=5)
 
 minEntry = Scale(UI_frame, from_=0, to=10, resolution=1, orient=HORIZONTAL, label="Min Value")
 minEntry.grid(row=1, column=1, padx=5, pady=5)
