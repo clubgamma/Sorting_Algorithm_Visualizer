@@ -5,8 +5,11 @@
   - As of now, this project implements three sorting algorithms - BubbleSort, QuickSort and MergeSort.
 
 Visualization:
-![alt text](https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss1.png?compress=1&resize=300x400)
-![alt text](https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss2.png)
+<p align = 'center'>
+ <img height=250  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss1.png" alt="IMG" /> 
+ <img height=250  src="https://github.com/Hetvi07/Sorting_Visualizer/blob/main/Presentation/ss2.png" alt="IMG" /> 
+ </p>
+  
 
 
 Read the [CONTRIBUTING.md](https://github.com/clubgamma/Live-Code-Editor/blob/main/CONTRIBUTING.md) to start your open source contribution.
