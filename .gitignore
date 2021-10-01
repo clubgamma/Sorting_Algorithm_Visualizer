@@ -1,0 +1,19 @@
+# Cache files
+__pycache__/
+
+# Build files
+build/
+dist/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Logs
+*.log
+
+# Text editor and IDE files
+.vscode
+.idea
